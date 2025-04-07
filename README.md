@@ -11,7 +11,7 @@
   <a href="https://www.simplehomelab.com"><img alt="Website" src="https://img.shields.io/badge/Website-Up-brightgreen?style=for-the-badge&logo=wordpress&logoColor=black&label=Website"></a>
   <a href="https://github.com/SimpleHomelab?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/SimpleHomelab?style=for-the-badge&logo=github&color=24292e&labelColor=gray"></a>
   <a href="https://x.com/SimpleHomelab"><img alt="X (Twitter) Follow" src="https://img.shields.io/badge/X-%20Followers-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://www.simplehomelab.com/go/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2100%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.simplehomelab.com/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2100%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 ---
@@ -78,6 +78,31 @@
 
 ---
 
+## 💝 Supporting Open Source
+
+I'm proud to actively support the open-source community through monthly financial contributions. Through [OpenCollective](https://opencollective.com/deployrr), SimpleHomelab.com contributes to essential self-hosted applications that power modern homelab setups:
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎬 <b>Media Management:</b> Sonarr, Radarr, Prowlarr, Readarr, Jellyfin</li>
+        <li>🔒 <b>Security:</b> Authelia</li>
+        <li>🖥️ <b>Infrastructure:</b> LinuxServer.io, Homepage, Uptime Kuma</li>
+      </ul>
+    </td>
+    <td align="center">
+      <a href="https://opencollective.com/deployrr">
+        <img src="https://opencollective.com/deployrr/tiers/backer.svg?avatarHeight=36" alt="OpenCollective Backers"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+To date, we've contributed over $700 to help maintain and develop these incredible projects. Supporting open source is crucial for the homelab community's growth and sustainability.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -107,7 +132,7 @@ The Geek Army includes over 1,000 paid members who see tremendous value in my ho
   <a href="https://www.youtube.com/@Simple-Homelab"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
   <a href="https://www.facebook.com/SimpleHomelab"><img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
   <a href="https://www.instagram.com/SimpleHomelab"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-  <a href="https://www.simplehomelab.com/go/discord/"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
+  <a href="https://www.simplehomelab.com/discord/"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
 </p>
 
 <p align="center">I love learning alongside the community as much as teaching - reach out and let's explore homelab solutions together!</p>
