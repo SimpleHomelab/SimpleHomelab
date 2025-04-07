@@ -78,15 +78,42 @@
 
 ---
 
+## 🔥 Join the Geek Army!
+
+The Geek Army includes over 1,000 paid members who see tremendous value in my homelab tools, guides, and premium content. If you've found my projects helpful in your homelab journey, consider joining to get exclusive benefits and support future development!
+
+<a href="https://www.simplehomelab.com/geek-army/join/">
+  <img src="https://img.shields.io/badge/Join%20the-Geek%20Army-brightgreen?style=for-the-badge" alt="Geek Army">
+</a>
+
+---
+
 ## 💝 Supporting Open Source
 
-I'm proud to actively support the open-source community through monthly financial contributions. Visit my [OpenCollective profile](https://opencollective.com/deployrr) to see all the projects I support!
+I'm proud to actively support the open-source community through monthly financial contributions. Visit my [OpenCollective profile](https://opencollective.com/deployrr) to see all the amazing projects we support!
 
 <p align="center">
   <a href="https://opencollective.com/deployrr">
-    <img src="https://opencollective.com/deployrr/tiers/backer.svg?avatarHeight=60&width=600" alt="OpenCollective Backers"/>
+    <img src="https://img.shields.io/badge/Total%20Contributions-$711%20USD-0069FF?style=for-the-badge&logo=opencollective&logoColor=white" alt="OpenCollective Contributions"/>
   </a>
 </p>
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>🎬 Media Management</h3>
+      <p>Sonarr • Radarr • Prowlarr<br>Readarr • Jellyfin</p>
+    </td>
+    <td align="center">
+      <h3>🔒 Security</h3>
+      <p>Authelia</p>
+    </td>
+    <td align="center">
+      <h3>🖥️ Infrastructure</h3>
+      <p>LinuxServer.io • Homepage<br>Uptime Kuma</p>
+    </td>
+  </tr>
+</table>
 
 Supporting open source is crucial for the homelab community's growth and sustainability. Together, we can help maintain and develop the tools that power our homelabs!
 
@@ -101,16 +128,6 @@ Supporting open source is crucial for the homelab community's growth and sustain
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimpleHomelab&theme=default" alt="SimpleHomelab's GitHub Streak" />
 </p>
-
----
-
-## 🔥 Join the Geek Army!
-
-The Geek Army includes over 1,000 paid members who see tremendous value in my homelab tools, guides, and premium content. If you've found my projects helpful in your homelab journey, consider joining to get exclusive benefits and support future development!
-
-<a href="https://www.simplehomelab.com/geek-army/join/">
-  <img src="https://img.shields.io/badge/Join%20the-Geek%20Army-brightgreen?style=for-the-badge" alt="Geek Army">
-</a>
 
 ---
 
