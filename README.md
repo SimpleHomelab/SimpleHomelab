@@ -80,13 +80,15 @@
 
 ## 💝 Supporting Open Source
 
-I'm proud to actively support the open-source community through monthly financial contributions. Through [OpenCollective](https://opencollective.com/deployrr), SimpleHomelab.com helps maintain and develop essential self-hosted applications that power modern homelab setups.
+I'm proud to actively support the open-source community through monthly financial contributions. Visit my [OpenCollective profile](https://opencollective.com/deployrr) to see all the projects I support!
 
 <p align="center">
-  <object type="image/svg+xml" data="https://opencollective.com/deployrr/tiers/backer.svg?avatarHeight=60&width=600"></object>
+  <a href="https://opencollective.com/deployrr">
+    <img src="https://opencollective.com/deployrr/tiers/backer.svg?avatarHeight=60&width=600" alt="OpenCollective Backers"/>
+  </a>
 </p>
 
-Supporting open source is crucial for the homelab community's growth and sustainability. Check out all the amazing projects we support above!
+Supporting open source is crucial for the homelab community's growth and sustainability. Together, we can help maintain and develop the tools that power our homelabs!
 
 ---
 
