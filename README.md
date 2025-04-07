@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://www.simplehomelab.com"><img alt="Website" src="https://img.shields.io/badge/Website-Up-brightgreen?style=for-the-badge&logo=wordpress&logoColor=black&label=Website"></a>
-  <a href="https://github.com/SimpleHomelab?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/SimpleHomelab?style=for-the-badge&logo=github&logoColor=black&color=white"></a>
-  <a href="https://twitter.com/SimpleHomelab"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SimpleHomelab?style=for-the-badge&logo=twitter&logoColor=black&color=white&label=Twitter"></a>
+  <a href="https://github.com/SimpleHomelab?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/SimpleHomelab?style=for-the-badge&logo=github&color=24292e&labelColor=gray"></a>
+  <a href="https://twitter.com/SimpleHomelab"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SimpleHomelab?style=for-the-badge&logo=twitter&labelColor=1DA1F2&color=white"></a>
   <a href="https://www.simplehomelab.com/go/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2100%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
