@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.simplehomelab.com"><img alt="Website" src="https://img.shields.io/badge/Website-Up-brightgreen?style=for-the-badge&logo=wordpress&logoColor=black&label=Website"></a>
   <a href="https://github.com/SimpleHomelab?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/SimpleHomelab?style=for-the-badge&logo=github&color=24292e&labelColor=gray"></a>
-  <a href="https://x.com/SimpleHomelab"><img alt="X (Twitter) Follow" src="https://img.shields.io/badge/X-%20Followers-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://x.com/SimpleHomelab"><img alt="X (Twitter) Follow" src="https://img.shields.io/badge/X-2561%20Followers-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.simplehomelab.com/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2100%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
