@@ -1,15 +1,12 @@
-<!-- GitHub Profile Header with Logo and Theme -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SimpleHomelab/Deployrr/main/images/logo.png" alt="SimpleHomelab Logo" width="200" height="200"/>
-</p>
-
+<!-- GitHub Profile Header -->
 <h1 align="center">👋 Hi, I'm Anand</h1>
 <h3 align="center">Simplifying Homelabs, One Step at a Time!</h3>
 
 <p align="center">
-  <a href="https://www.simplehomelab.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.simplehomelab.com&style=for-the-badge&logo=wordpress&logoColor=white&label=Website"></a>
-  <a href="https://github.com/SimpleHomelab?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/SimpleHomelab?style=for-the-badge&logo=github"></a>
-  <a href="https://twitter.com/SimpleHomelab"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SimpleHomelab?style=for-the-badge&logo=twitter&color=blue"></a>
+  <a href="https://www.simplehomelab.com"><img alt="Website" src="https://img.shields.io/badge/Website-Up-brightgreen?style=for-the-badge&logo=wordpress&logoColor=black&label=Website"></a>
+  <a href="https://github.com/SimpleHomelab?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/SimpleHomelab?style=for-the-badge&logo=github&logoColor=black&color=white"></a>
+  <a href="https://twitter.com/SimpleHomelab"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SimpleHomelab?style=for-the-badge&logo=twitter&logoColor=black&color=white&label=Twitter"></a>
+  <a href="https://www.simplehomelab.com/go/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2100%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 ---
@@ -21,13 +18,13 @@
 ## 🚀 Featured Projects
 
 <a href="https://github.com/SimpleHomelab/Deployrr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Deployrr&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Deployrr&theme=default" />
 </a>
 <a href="https://github.com/SimpleHomelab/Docker-Traefik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Docker-Traefik&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Docker-Traefik&theme=default" />
 </a>
 <a href="https://github.com/SimpleHomelab/Deployrr-Docs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Deployrr-Docs&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Deployrr-Docs&theme=default" />
 </a>
 
 ---
@@ -35,11 +32,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimpleHomelab&show_icons=true&theme=radical" alt="SimpleHomelab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SimpleHomelab&show_icons=true&theme=default" alt="SimpleHomelab's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimpleHomelab&theme=radical" alt="SimpleHomelab's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimpleHomelab&theme=default" alt="SimpleHomelab's GitHub Streak" />
 </p>
 
 ---
@@ -59,7 +56,7 @@
 If you've found my projects helpful in your homelab journey, consider joining the **[Geek Army](https://www.simplehomelab.com/geek-army/join/)**. Your support helps me continue creating tools and tutorials, plus you'll get exclusive benefits!
 
 <a href="https://www.simplehomelab.com/geek-army/join/">
-  <img src="https://img.shields.io/badge/Join%20the-Geek%20Army-brightgreen?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHBhdGggZD0iTTMyIDJDMTUuNDMyIDIgMiAxNS40MzIgMiAzMnMxMy40MzIgMzAgMzAgMzAgMzAtMTMuNDMyIDMwLTMwUzQ4LjU2OCAyIDMyIDJ6bTAgNTZDMTYuNTM3IDU4IDQgNDUuNDYzIDQgMzBTMTYuNTM3IDIgMzIgMnMyOCAxMi41MzcgMjggMjgtMTIuNTM3IDI4LTI4IDI4eiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMzIgMTNjLTcuMTggMC0xMyA1LjgyLTEzIDEzczUuODIgMTMgMTMgMTMgMTMtNS44MiAxMy0xMy01LjgyLTEzLTEzLTEzem00IDM5di01aC04djVjMCAxLjEwNSAzLjEzNCAyIDQgMnM0LS44OTUgNC0yeiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" alt="Geek Army">
+  <img src="https://img.shields.io/badge/Join%20the-Geek%20Army-brightgreen?style=for-the-badge" alt="Geek Army">
 </a>
 
 ---
@@ -67,10 +64,11 @@ If you've found my projects helpful in your homelab journey, consider joining th
 ## 📱 Let's Connect
 
 <p align="center">
-  <a href="https://twitter.com/SimpleHomelab"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://www.youtube.com/@Simple-Homelab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.facebook.com/SimpleHomelab"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/SimpleHomelab"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://twitter.com/SimpleHomelab"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/></a>
+  <a href="https://www.youtube.com/@Simple-Homelab"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
+  <a href="https://www.facebook.com/SimpleHomelab"><img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/SimpleHomelab"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="https://www.simplehomelab.com/go/discord/"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
 </p>
 
 <p align="center">I love learning alongside the community as much as teaching - reach out and let's explore homelab solutions together!</p>
@@ -78,5 +76,5 @@ If you've found my projects helpful in your homelab journey, consider joining th
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SimpleHomelab&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SimpleHomelab&style=for-the-badge&color=lightgrey" alt="Profile Views"/>
 </p>
