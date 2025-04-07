@@ -1,7 +1,7 @@
 <!-- GitHub Profile Header -->
 <p align="center">
   <a href="https://www.simplehomelab.com">
-    <img src="https://www.simplehomelab.com/wp-content/uploads/2023/05/SimpleHomelab-Logo.png" alt="SimpleHomelab Logo" width="400"/>
+    <img src="https://www.simplehomelab.com/images/2025/03/SimpleHomelab-Logo-Horizontal-350.png" alt="SimpleHomelab Logo" width="350"/>
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.simplehomelab.com"><img alt="Website" src="https://img.shields.io/badge/Website-Up-brightgreen?style=for-the-badge&logo=wordpress&logoColor=black&label=Website"></a>
   <a href="https://github.com/SimpleHomelab?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/SimpleHomelab?style=for-the-badge&logo=github&color=24292e&labelColor=gray"></a>
-  <a href="https://twitter.com/SimpleHomelab"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-600+-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/SimpleHomelab"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SimpleHomelab?style=for-the-badge&logo=twitter&labelColor=1DA1F2&color=white"></a>
   <a href="https://www.simplehomelab.com/go/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2100%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
@@ -23,40 +23,46 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <a href="https://github.com/SimpleHomelab/Deployrr">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Deployrr&theme=default" width="100%" />
-          <br />
-          <img src="https://img.shields.io/github/stars/SimpleHomelab/Deployrr?style=flat-square&color=yellow" />
-          <img src="https://img.shields.io/github/forks/SimpleHomelab/Deployrr?style=flat-square&color=orange" />
-        </a>
-        <br />
-        <p>Automated homelab deployment with 140+ apps</p>
-      </td>
-      <td width="33%" align="center">
-        <a href="https://github.com/SimpleHomelab/Docker-Traefik">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Docker-Traefik&theme=default" width="100%" />
-          <br />
-          <img src="https://img.shields.io/github/stars/SimpleHomelab/Docker-Traefik?style=flat-square&color=yellow" />
-          <img src="https://img.shields.io/github/forks/SimpleHomelab/Docker-Traefik?style=flat-square&color=orange" />
-        </a>
-        <br />
-        <p>Docker stack with Traefik, OAuth2 & LetsEncrypt</p>
-      </td>
-      <td width="33%" align="center">
-        <a href="https://github.com/SimpleHomelab/Deployrr-Docs">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Deployrr-Docs&theme=default" width="100%" />
-          <br />
-          <img src="https://img.shields.io/github/stars/SimpleHomelab/Deployrr-Docs?style=flat-square&color=yellow" />
-          <img src="https://img.shields.io/github/forks/SimpleHomelab/Deployrr-Docs?style=flat-square&color=orange" />
-        </a>
-        <br />
-        <p>Docs available at <a href="https://docs.deployrr.app">docs.deployrr.app</a></p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/SimpleHomelab/Deployrr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Deployrr&theme=default&border_color=30363d&bg_color=f6f8fa&title_color=0969da&text_color=57606a&icon_color=424a53" width="400" />
+  </a>
+  
+  <p align="center">
+    <b>Deployrr</b> - Automated homelab deployment with 140+ applications
+    <br />
+    <a href="https://github.com/SimpleHomelab/Deployrr/stargazers"><img src="https://img.shields.io/github/stars/SimpleHomelab/Deployrr?style=for-the-badge&color=yellow&logo=github" /></a>
+    <a href="https://github.com/SimpleHomelab/Deployrr/network/members"><img src="https://img.shields.io/github/forks/SimpleHomelab/Deployrr?style=for-the-badge&color=orange&logo=github" /></a>
+  </p>
+
+  <hr style="width:50%; border:1px solid #f0f0f0" />
+  
+  <a href="https://github.com/SimpleHomelab/Docker-Traefik">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Docker-Traefik&theme=default&border_color=30363d&bg_color=f6f8fa&title_color=0969da&text_color=57606a&icon_color=424a53" width="400" />
+  </a>
+  
+  <p align="center">
+    <b>Docker-Traefik</b> - Docker stack with Traefik, OAuth2 & LetsEncrypt
+    <br />
+    <span>Supports my <a href="https://www.simplehomelab.com/ultimate-docker-media-server-udms-01/">UDMS series</a> and <a href="https://www.youtube.com/playlist?list=PL1Hno7tIbSWV-c1E87BqTzPMgfGxM08nf">YouTube tutorials</a></span>
+    <br />
+    <a href="https://github.com/SimpleHomelab/Docker-Traefik/stargazers"><img src="https://img.shields.io/github/stars/SimpleHomelab/Docker-Traefik?style=for-the-badge&color=yellow&logo=github" /></a>
+    <a href="https://github.com/SimpleHomelab/Docker-Traefik/network/members"><img src="https://img.shields.io/github/forks/SimpleHomelab/Docker-Traefik?style=for-the-badge&color=orange&logo=github" /></a>
+  </p>
+  
+  <hr style="width:50%; border:1px solid #f0f0f0" />
+  
+  <a href="https://github.com/SimpleHomelab/Deployrr-Docs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Deployrr-Docs&theme=default&border_color=30363d&bg_color=f6f8fa&title_color=0969da&text_color=57606a&icon_color=424a53" width="400" />
+  </a>
+  
+  <p align="center">
+    <b>Deployrr-Docs</b> - Comprehensive documentation for Deployrr users
+    <br />
+    <span>Available at <a href="https://docs.deployrr.app">docs.deployrr.app</a></span>
+    <br />
+    <a href="https://github.com/SimpleHomelab/Deployrr-Docs/stargazers"><img src="https://img.shields.io/github/stars/SimpleHomelab/Deployrr-Docs?style=for-the-badge&color=yellow&logo=github" /></a>
+    <a href="https://github.com/SimpleHomelab/Deployrr-Docs/network/members"><img src="https://img.shields.io/github/forks/SimpleHomelab/Deployrr-Docs?style=for-the-badge&color=orange&logo=github" /></a>
+  </p>
 </div>
 
 ---
