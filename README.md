@@ -80,26 +80,13 @@
 
 ## 💝 Supporting Open Source
 
-I'm proud to actively support the open-source community through monthly financial contributions. Through [OpenCollective](https://opencollective.com/deployrr), SimpleHomelab.com contributes to essential self-hosted applications that power modern homelab setups:
+I'm proud to actively support the open-source community through monthly financial contributions. Through [OpenCollective](https://opencollective.com/deployrr), SimpleHomelab.com helps maintain and develop essential self-hosted applications that power modern homelab setups.
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🎬 <b>Media Management:</b> Sonarr, Radarr, Prowlarr, Readarr, Jellyfin</li>
-        <li>🔒 <b>Security:</b> Authelia</li>
-        <li>🖥️ <b>Infrastructure:</b> LinuxServer.io, Homepage, Uptime Kuma</li>
-      </ul>
-    </td>
-    <td align="center">
-      <a href="https://opencollective.com/deployrr">
-        <img src="https://opencollective.com/deployrr/tiers/backer.svg?avatarHeight=36" alt="OpenCollective Backers"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <object type="image/svg+xml" data="https://opencollective.com/deployrr/tiers/backer.svg?avatarHeight=60&width=600"></object>
+</p>
 
-To date, we've contributed over $700 to help maintain and develop these incredible projects. Supporting open source is crucial for the homelab community's growth and sustainability.
+Supporting open source is crucial for the homelab community's growth and sustainability. Check out all the amazing projects we support above!
 
 ---
 
