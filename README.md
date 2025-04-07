@@ -1,11 +1,16 @@
 <!-- GitHub Profile Header -->
-<h1 align="center">👋 Hi, I'm Anand</h1>
+<p align="center">
+  <a href="https://www.simplehomelab.com">
+    <img src="https://www.simplehomelab.com/wp-content/uploads/2023/05/SimpleHomelab-Logo.png" alt="SimpleHomelab Logo" width="400"/>
+  </a>
+</p>
+
 <h3 align="center">Simplifying Homelabs, One Step at a Time!</h3>
 
 <p align="center">
   <a href="https://www.simplehomelab.com"><img alt="Website" src="https://img.shields.io/badge/Website-Up-brightgreen?style=for-the-badge&logo=wordpress&logoColor=black&label=Website"></a>
   <a href="https://github.com/SimpleHomelab?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/SimpleHomelab?style=for-the-badge&logo=github&color=24292e&labelColor=gray"></a>
-  <a href="https://twitter.com/SimpleHomelab"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SimpleHomelab?style=for-the-badge&logo=twitter&labelColor=1DA1F2&color=white"></a>
+  <a href="https://twitter.com/SimpleHomelab"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-600+-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.simplehomelab.com/go/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2100%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
@@ -17,15 +22,42 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/SimpleHomelab/Deployrr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Deployrr&theme=default" />
-</a>
-<a href="https://github.com/SimpleHomelab/Docker-Traefik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Docker-Traefik&theme=default" />
-</a>
-<a href="https://github.com/SimpleHomelab/Deployrr-Docs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Deployrr-Docs&theme=default" />
-</a>
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://github.com/SimpleHomelab/Deployrr">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Deployrr&theme=default" width="100%" />
+          <br />
+          <img src="https://img.shields.io/github/stars/SimpleHomelab/Deployrr?style=flat-square&color=yellow" />
+          <img src="https://img.shields.io/github/forks/SimpleHomelab/Deployrr?style=flat-square&color=orange" />
+        </a>
+        <br />
+        <p>Automated homelab deployment with 140+ apps</p>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/SimpleHomelab/Docker-Traefik">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Docker-Traefik&theme=default" width="100%" />
+          <br />
+          <img src="https://img.shields.io/github/stars/SimpleHomelab/Docker-Traefik?style=flat-square&color=yellow" />
+          <img src="https://img.shields.io/github/forks/SimpleHomelab/Docker-Traefik?style=flat-square&color=orange" />
+        </a>
+        <br />
+        <p>Docker stack with Traefik, OAuth2 & LetsEncrypt</p>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/SimpleHomelab/Deployrr-Docs">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleHomelab&repo=Deployrr-Docs&theme=default" width="100%" />
+          <br />
+          <img src="https://img.shields.io/github/stars/SimpleHomelab/Deployrr-Docs?style=flat-square&color=yellow" />
+          <img src="https://img.shields.io/github/forks/SimpleHomelab/Deployrr-Docs?style=flat-square&color=orange" />
+        </a>
+        <br />
+        <p>Docs available at <a href="https://docs.deployrr.app">docs.deployrr.app</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -53,7 +85,7 @@
 
 ## 🔥 Join the Geek Army!
 
-If you've found my projects helpful in your homelab journey, consider joining the **[Geek Army](https://www.simplehomelab.com/geek-army/join/)**. Your support helps me continue creating tools and tutorials, plus you'll get exclusive benefits!
+The Geek Army includes over 1,000 paid members who see tremendous value in my homelab tools, guides, and premium content. If you've found my projects helpful in your homelab journey, consider joining to get exclusive benefits and support future development!
 
 <a href="https://www.simplehomelab.com/geek-army/join/">
   <img src="https://img.shields.io/badge/Join%20the-Geek%20Army-brightgreen?style=for-the-badge" alt="Geek Army">
