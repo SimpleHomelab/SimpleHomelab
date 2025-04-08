@@ -117,6 +117,16 @@ Supporting open source is crucial for the homelab community's growth and sustain
 
 ---
 
+## 📱 Let's Connect
+
+<p align="center">
+  <a href="https://x.com/SimpleHomelab"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+  <a href="https://www.youtube.com/@Simple-Homelab"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
+  <a href="https://www.facebook.com/SimpleHomelab"><img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/SimpleHomelab"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="https://www.simplehomelab.com/discord/"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
+</p>
+
 <p align="center">I love learning alongside the community as much as teaching - reach out and let's explore homelab solutions together!</p>
 
 ---
