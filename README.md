@@ -88,9 +88,11 @@
 
 The Geek Army includes over 1,000 paid members who see tremendous value in my homelab tools, guides, and premium content. If you've found my projects helpful in your homelab journey, consider joining to get exclusive benefits and support future development!
 
-<a href="https://www.simplehomelab.com/geek-army/join/">
-  <img src="https://img.shields.io/badge/Join%20the-Geek%20Army-brightgreen?style=for-the-badge" alt="Geek Army">
-</a>
+<p align="center">
+  <a href="https://www.simplehomelab.com/geek-army/join/">
+    <img src="https://img.shields.io/badge/Join%20the-Geek%20Army-brightgreen?style=for-the-badge" alt="Geek Army">
+  </a>
+</p>
 
 ---
 
