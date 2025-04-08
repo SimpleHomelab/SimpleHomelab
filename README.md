@@ -110,7 +110,7 @@ Supporting open source is crucial for the homelab community's growth and sustain
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SimpleHomelab&show_icons=true&theme=default" alt="SimpleHomelab's GitHub Stats" />
