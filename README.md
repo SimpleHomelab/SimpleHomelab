@@ -13,14 +13,15 @@
   <a href="https://x.com/SimpleHomelab"><img alt="X (Twitter) Follow" src="https://img.shields.io/badge/X-2561%20Followers-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.youtube.com/@Simple-Homelab"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/badge/YouTube-8.17K%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.simplehomelab.com/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2100%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.facebook.com/SimpleHomelab"><img src="https://img.shields.io/badge/Facebook-2.5K%20Followers-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.facebook.com/SimpleHomelab"><img src="https://img.shields.io/badge/Facebook-100K%20Followers-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.reddit.com/user/SimpleHomelab/"><img src="https://img.shields.io/badge/Reddit-Follow-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 </p>
 
 ---
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="https://www.simplehomelab.com/images/2025/04/anand3.jpg" alt="Anand from SimpleHomelab" width="150" style="border-radius: 50%;" />
-  <p>Hi, I am Anand from SimpleHomelab.com. I'm passionate about making complex homelab technology accessible to everyone. From Docker containers to self-hosted services, I love breaking down technical concepts into digestible steps you can follow.</p>
+  <p style="flex: 1; max-width: 600px; text-align: left;">Hi, I am Anand from SimpleHomelab.com. I'm passionate about making complex homelab technology accessible to everyone. From Docker containers to self-hosted services, I love breaking down technical concepts into digestible steps you can follow.</p>
 </div>
 
 ---
