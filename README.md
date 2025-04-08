@@ -117,8 +117,8 @@ Supporting open source is crucial for the homelab community's growth and sustain
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimpleHomelab&theme=default" alt="SimpleHomelab's GitHub Streak" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=SimpleHomelab&theme=default&hide_border=false" alt="SimpleHomelab's GitHub Streak Stats"/>
+</p> 
 
 ---
 
