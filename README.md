@@ -15,11 +15,12 @@
   <a href="https://www.simplehomelab.com/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2100%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.facebook.com/SimpleHomelab"><img src="https://img.shields.io/badge/Facebook-2.5K%20Followers-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.instagram.com/SimpleHomelab"><img src="https://img.shields.io/badge/Instagram-1.8K%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://opencollective.com/deployrr"><img src="https://img.shields.io/opencollective/all/deployrr?style=for-the-badge&logo=opencollective&label=Open%20Collective" alt="OpenCollective"/></a>
 </p>
 
 ---
 
-<p align="center">I'm passionate about making complex homelab technology accessible to everyone. From Docker containers to self-hosted services, I love breaking down technical concepts into digestible steps you can follow.</p>
+<p align="center">Hi, I am Anand from SimpleHomelab.com. I'm passionate about making complex homelab technology accessible to everyone. From Docker containers to self-hosted services, I love breaking down technical concepts into digestible steps you can follow.</p>
 
 ---
 
