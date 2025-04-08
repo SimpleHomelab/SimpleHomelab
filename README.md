@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 <table>
   <tr>
@@ -84,7 +84,7 @@
 
 ---
 
-## 🔥 Join the Geek Army!
+## Join the Geek Army!
 
 The Geek Army includes over 1,000 paid members who see tremendous value in my homelab tools, guides, and premium content. If you've found my projects helpful in your homelab journey, consider joining to get exclusive benefits and support future development!
 
@@ -96,7 +96,7 @@ The Geek Army includes over 1,000 paid members who see tremendous value in my ho
 
 ---
 
-## 💝 Supporting Open Source
+## Supporting Open Source
 
 I am proud to actively support the open-source community through monthly financial contributions. Visit my [OpenCollective profile](https://opencollective.com/deployrr) to see all the amazing projects we support!
 
