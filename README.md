@@ -13,6 +13,8 @@
   <a href="https://x.com/SimpleHomelab"><img alt="X (Twitter) Follow" src="https://img.shields.io/badge/X-2561%20Followers-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.youtube.com/@Simple-Homelab"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/badge/YouTube-8.17K%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.simplehomelab.com/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2100%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.facebook.com/SimpleHomelab"><img src="https://img.shields.io/badge/Facebook-Follow%20Us-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/SimpleHomelab"><img src="https://img.shields.io/badge/Instagram-Follow%20Us-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
@@ -114,16 +116,6 @@ Supporting open source is crucial for the homelab community's growth and sustain
 </p>
 
 ---
-
-## 📱 Let's Connect
-
-<p align="center">
-  <a href="https://x.com/SimpleHomelab"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="https://www.youtube.com/@Simple-Homelab"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
-  <a href="https://www.facebook.com/SimpleHomelab"><img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/SimpleHomelab"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-  <a href="https://www.simplehomelab.com/discord/"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
-</p>
 
 <p align="center">I love learning alongside the community as much as teaching - reach out and let's explore homelab solutions together!</p>
 
