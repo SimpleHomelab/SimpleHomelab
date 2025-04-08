@@ -19,9 +19,13 @@
 
 ---
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://www.simplehomelab.com/images/2025/04/anand3.jpg" alt="Anand from SimpleHomelab" width="150" style="border-radius: 50%;" />
-  <p style="flex: 1; max-width: 600px; text-align: left;">Hi, I am Anand from SimpleHomelab.com. I'm passionate about making complex homelab technology accessible to everyone. From Docker containers to self-hosted services, I love breaking down technical concepts into digestible steps you can follow.</p>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 0 0 100px;">
+    <img src="https://www.simplehomelab.com/images/2025/04/anand3.jpg" alt="Anand from SimpleHomelab" width="100" style="border-radius: 50%;" />
+  </div>
+  <div style="flex: 1;">
+    <p>Hi, I am Anand from SimpleHomelab.com. I'm passionate about making complex homelab technology accessible to everyone. From Docker containers to self-hosted services, I love breaking down technical concepts into digestible steps you can follow.</p>
+  </div>
 </div>
 
 ---
