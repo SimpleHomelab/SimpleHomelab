@@ -106,7 +106,6 @@ I am proud to actively support the open-source community through monthly financi
   </a>
 </p>
 
-In addition, there 
 Supporting open source is crucial for the homelab community's growth and sustainability. Together, we can help maintain and develop the tools that power our homelabs!
 
 ---
