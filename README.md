@@ -98,18 +98,15 @@ The Geek Army includes over 1,000 paid members who see tremendous value in my ho
 
 ## Supporting Open Source
 
-I am proud to actively support the open-source community through monthly financial contributions. Visit my [OpenCollective profile](https://opencollective.com/deployrr) to see all the amazing projects we support!
+I am proud to actively support the open-source community through monthly financial contributions. Visit my [OpenCollective profile](https://opencollective.com/deployrr) or my GitHub sponsorships on the left to see all the amazing projects SimpleHomelab/Deployrr supports!
 
 <p align="center">
   <a href="https://opencollective.com/deployrr">
     <img src="https://img.shields.io/badge/Total%20Contributions-$711%20USD-0069FF?style=for-the-badge&logo=opencollective&logoColor=white" alt="OpenCollective Contributions"/>
   </a>
-  <br>
-  <a href="https://github.com/sponsors/SimpleHomelab">
-    <img src="https://img.shields.io/github/sponsors/SimpleHomelab?label=Sponsors&logo=GitHub%20Sponsors&style=for-the-badge" alt="GitHub Sponsors"/>
-  </a>
 </p>
 
+In addition, there 
 Supporting open source is crucial for the homelab community's growth and sustainability. Together, we can help maintain and develop the tools that power our homelabs!
 
 ---
