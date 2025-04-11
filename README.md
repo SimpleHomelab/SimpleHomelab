@@ -104,6 +104,10 @@ I am proud to actively support the open-source community through monthly financi
   <a href="https://opencollective.com/deployrr">
     <img src="https://img.shields.io/badge/Total%20Contributions-$711%20USD-0069FF?style=for-the-badge&logo=opencollective&logoColor=white" alt="OpenCollective Contributions"/>
   </a>
+  <br>
+  <a href="https://github.com/sponsors/SimpleHomelab">
+    <img src="https://img.shields.io/github/sponsors/SimpleHomelab?label=Sponsors&logo=GitHub%20Sponsors&style=for-the-badge" alt="GitHub Sponsors"/>
+  </a>
 </p>
 
 Supporting open source is crucial for the homelab community's growth and sustainability. Together, we can help maintain and develop the tools that power our homelabs!
