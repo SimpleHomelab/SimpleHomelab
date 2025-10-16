@@ -102,7 +102,7 @@ I am proud to actively support the open-source community through monthly financi
 
 <p align="center">
   <a href="https://opencollective.com/deployrr">
-    <img src="https://img.shields.io/badge/Total%20Contributions-$711%20USD-0069FF?style=for-the-badge&logo=opencollective&logoColor=white" alt="OpenCollective Contributions"/>
+    <img src="https://img.shields.io/badge/Total%20Contributions-$1,004%20USD-0069FF?style=for-the-badge&logo=opencollective&logoColor=white" alt="OpenCollective Contributions"/>
   </a>
 </p>
 
