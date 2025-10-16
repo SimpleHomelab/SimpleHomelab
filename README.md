@@ -1,7 +1,7 @@
 <!-- GitHub Profile Header -->
 <p align="center">
   <a href="https://www.simplehomelab.com">
-    <img src="https://www.simplehomelab.com/images/2025/03/SimpleHomelab-Logo-Horizontal-350.png" alt="SimpleHomelab Logo" width="350"/>
+    <img src="https://www.simplehomelab.com/images/2025/03/SimpleHomelab-Logo.png" alt="SimpleHomelab Logo" width="350"/>
   </a>
 </p>
 
