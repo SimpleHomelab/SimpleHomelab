@@ -73,7 +73,7 @@
     </td>
     <td>
       <h3><a href="https://github.com/SimpleHomelab/Deployrr">🏠 Deployrr</a></h3>
-      <p>My automated Docker-based homelab deployment solution with <strong>140+ pre-configured applications</strong>. Perfect for quickly setting up your entire homelab stack.</p>
+      <p>Transform your homelab from complex to click. Deployrr automates Docker and Docker Compose deployment with <strong>140+ pre-configured applications</strong>, enterprise-grade security (CrowdSec, Authelia, Authentik), advanced Traefik reverse proxy configuration, and automated backup and restoration. Runs on Ubuntu/Debian — baremetal, VM, WSL, or LXC.</p>
       <p>
         <a href="https://github.com/SimpleHomelab/Deployrr/stargazers"><img src="https://img.shields.io/github/stars/SimpleHomelab/Deployrr?style=for-the-badge&color=f5c542&logo=github&label=Stars" alt="Stars" /></a>
         <a href="https://github.com/SimpleHomelab/Deployrr/network/members"><img src="https://img.shields.io/github/forks/SimpleHomelab/Deployrr?style=for-the-badge&color=orange&logo=github&label=Forks" alt="Forks" /></a>
@@ -151,7 +151,7 @@ I actively support the open-source community through monthly financial contribut
 
 <p align="center">
   <a href="https://opencollective.com/deployrr">
-    <img src="https://img.shields.io/badge/Total%20Contributions-$1,004%20USD-0069FF?style=for-the-badge&logo=opencollective&logoColor=white" alt="OpenCollective Contributions"/>
+    <img src="https://img.shields.io/badge/Total%20Contributions-$1,158%20USD-0069FF?style=for-the-badge&logo=opencollective&logoColor=white" alt="OpenCollective Contributions"/>
   </a>
 </p>
 
