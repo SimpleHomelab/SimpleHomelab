@@ -24,8 +24,8 @@
   <a href="https://www.simplehomelab.com"><img alt="Website" src="https://img.shields.io/badge/Website-simplehomelab.com-0969da?style=for-the-badge&logo=wordpress&logoColor=white"></a>
   <a href="https://github.com/SimpleHomelab?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/SimpleHomelab?style=for-the-badge&logo=github&color=181717&labelColor=555&label=GitHub"></a>
   <a href="https://x.com/SimpleHomelab"><img alt="X Followers" src="https://img.shields.io/badge/X-2.6K%20Followers-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://www.youtube.com/@Simple-Homelab"><img alt="YouTube Subscribers" src="https://img.shields.io/badge/YouTube-10.3K%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.simplehomelab.com/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2,400+%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.youtube.com/@Simple-Homelab"><img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRNslbwLLvFWzTolVCBgXYA?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&color=FF0000"></a>
+  <a href="https://www.simplehomelab.com/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2.4K%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.simplehomelab.com/discord/"><img alt="Discord Online" src="https://img.shields.io/discord/974306760171073556?style=for-the-badge&logo=discord&logoColor=white&label=Online%20Now&color=30a14e"></a>
   <a href="https://www.facebook.com/SimpleHomelab"><img src="https://img.shields.io/badge/Facebook-96K%20Followers-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.reddit.com/user/SimpleHomelab/"><img src="https://img.shields.io/badge/Reddit-Follow-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
