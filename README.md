@@ -74,7 +74,7 @@
     </td>
     <td>
       <h3><a href="https://github.com/SimpleHomelab/Deployrr">🏠 Deployrr</a></h3>
-      <p>Transform your homelab from complex to click. Deployrr automates Docker and Docker Compose deployment with <strong>150+ pre-configured applications</strong>, enterprise-grade security (CrowdSec, Authelia, Authentik), advanced Traefik reverse proxy configuration, and automated backup and restoration. Runs on Ubuntu/Debian — baremetal, VM, WSL, or LXC.</p>
+      <p>Transform your homelab from complex to click. Deployrr automates Docker and Docker Compose deployment with <strong>150+ pre-configured applications</strong>, enterprise-grade security (CrowdSec, Authelia, Authentik), advanced Traefik reverse proxy configuration, and automated backup and restoration. Runs on Ubuntu/Debian (plus Arch, CentOS/RHEL/Rocky as secondary) — baremetal, VM, WSL, or LXC.</p>
       <p>
         <a href="https://github.com/SimpleHomelab/Deployrr/stargazers"><img src="https://img.shields.io/github/stars/SimpleHomelab/Deployrr?style=for-the-badge&color=f5c542&logo=github&label=Stars" alt="Stars" /></a>
         <a href="https://github.com/SimpleHomelab/Deployrr/network/members"><img src="https://img.shields.io/github/forks/SimpleHomelab/Deployrr?style=for-the-badge&color=orange&logo=github&label=Forks" alt="Forks" /></a>
