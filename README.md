@@ -25,7 +25,7 @@
   <a href="https://github.com/SimpleHomelab?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/SimpleHomelab?style=for-the-badge&logo=github&color=181717&labelColor=555&label=GitHub"></a>
   <a href="https://x.com/SimpleHomelab"><img alt="X Followers" src="https://img.shields.io/badge/X-2.55K%20Followers-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.youtube.com/@Simple-Homelab"><img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCRNslbwLLvFWzTolVCBgXYA?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&color=FF0000"></a>
-  <a href="https://www.simplehomelab.com/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2.385K%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.simplehomelab.com/discord/"><img alt="Discord" src="https://img.shields.io/badge/Discord-2.34K%20Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.simplehomelab.com/discord/"><img alt="Discord Online" src="https://img.shields.io/discord/974306760171073556?style=for-the-badge&logo=discord&logoColor=white&label=Online%20Now&color=30a14e"></a>
   <a href="https://www.facebook.com/SimpleHomelab"><img src="https://img.shields.io/badge/Facebook-96K%20Followers-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.reddit.com/user/SimpleHomelab/"><img src="https://img.shields.io/badge/Reddit-Follow-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
@@ -74,7 +74,7 @@
     </td>
     <td>
       <h3><a href="https://github.com/SimpleHomelab/Deployrr">🏠 Deployrr</a></h3>
-      <p>Transform your homelab from complex to click. Deployrr automates Docker and Docker Compose deployment with <strong>150+ pre-configured applications</strong>, enterprise-grade security (CrowdSec, Authelia, Authentik), advanced Traefik reverse proxy configuration, and automated backup and restoration. Runs on Ubuntu/Debian (plus Arch, CentOS/RHEL/Rocky as secondary) — baremetal, VM, WSL, or LXC.</p>
+      <p>Transform your homelab from complex to click. Deployrr automates Docker and Docker Compose deployment with <strong>160+ pre-configured applications</strong>, smart setup checks, and security features including Socket Proxy, CrowdSec, Authentik, Authelia, TinyAuth, and Google OAuth. It provides advanced Traefik reverse proxy configuration with flexible exposure modes, automated backup and restoration, and curated AI and automation app bundles. Supports Ubuntu/Debian (with Arch and RHEL-family systems as secondary options) across baremetal, VMs, WSL, and LXC.</p>
       <p>
         <a href="https://github.com/SimpleHomelab/Deployrr/stargazers"><img src="https://img.shields.io/github/stars/SimpleHomelab/Deployrr?style=for-the-badge&color=f5c542&logo=github&label=Stars" alt="Stars" /></a>
         <a href="https://github.com/SimpleHomelab/Deployrr/network/members"><img src="https://img.shields.io/github/forks/SimpleHomelab/Deployrr?style=for-the-badge&color=orange&logo=github&label=Forks" alt="Forks" /></a>
@@ -162,7 +162,7 @@ I actively support the open-source community through monthly financial contribut
 
 <p align="center">
   <a href="https://opencollective.com/deployrr">
-    <img src="https://img.shields.io/badge/Total%20Contributions-$1,178%20USD-0069FF?style=for-the-badge&logo=opencollective&logoColor=white" alt="OpenCollective Contributions"/>
+    <img src="https://img.shields.io/badge/Total%20Contributions-$1,188%20USD-0069FF?style=for-the-badge&logo=opencollective&logoColor=white" alt="OpenCollective Contributions"/>
   </a>
 </p>
 
