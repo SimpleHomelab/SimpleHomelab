@@ -1,9 +1,6 @@
 <!-- SimpleHomelab GitHub profile README -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&animation=fadeIn&text=Simplifying%20homelabs%2C%20one%20step%20at%20a%20time&fontSize=30&fontColor=ffffff&fontAlignY=40&color=0:0d1117,60:0969da,100:30a14e">
-  <img width="100%" alt="Simplifying homelabs, one step at a time" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&animation=fadeIn&text=Simplifying%20homelabs%2C%20one%20step%20at%20a%20time&fontSize=30&fontColor=ffffff&fontAlignY=40&color=0:0969da,100:30a14e">
-</picture>
+<img width="100%" alt="Simplifying homelabs, one step at a time" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:0969da,100:30a14e&height=200&section=header&animation=fadeIn&text=Simplifying%20homelabs%2C%20one%20step%20at%20a%20time&fontSize=30&fontColor=ffffff&fontAlignY=38">
 
 <p align="center">
   <a href="https://www.simplehomelab.com">
@@ -115,7 +112,4 @@ The **[Geek Army](https://www.simplehomelab.com/geek-army/join/)** is the paid m
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=SimpleHomelab&style=flat-square&color=0969da&label=profile+views">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:30a14e,40:0969da,100:0d1117&height=100&section=footer">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:30a14e,100:0969da&height=100&section=footer">
-</picture>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:30a14e,50:0969da,100:1a1b27&height=120&section=footer">
