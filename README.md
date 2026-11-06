@@ -69,7 +69,11 @@ I run [SimpleHomelab.com](https://www.simplehomelab.com) (formerly SmartHomeBegi
 ## 📝 Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Read the latest guides on SimpleHomelab.com](https://www.simplehomelab.com)
+- [Ultimate Docker Guides: Homepage Docker Compose [2026]](https://www.simplehomelab.com/homepage-docker-compose-guide-2026/)
+- [UDMS Part 26: Running Multiple Domains with One Traefik Instance](https://www.simplehomelab.com/udms-26-multiple-domains-on-traefik/)
+- [UDMS Part 27: Running Multiple Traefik Instances with Domain Passthrough](https://www.simplehomelab.com/udms-27-traefik-domain-passthrough/)
+- [UDMS Part 25: Must-Have Traefik Plugins – Geoblock, Themes, CrowdSec &amp; More](https://www.simplehomelab.com/udms-25-traefik-plugins/)
+- [UDMS Part 21: Authentik Docker Compose – Self-Hosted Identity Management](https://www.simplehomelab.com/udms-21-authentik-docker-compose/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎬 Latest videos
