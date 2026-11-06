@@ -1,5 +1,10 @@
 <!-- SimpleHomelab GitHub profile README -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&animation=fadeIn&text=Simplifying%20homelabs%2C%20one%20step%20at%20a%20time&fontSize=30&fontColor=ffffff&fontAlignY=40&color=0:0d1117,60:0969da,100:30a14e">
+  <img width="100%" alt="Simplifying homelabs, one step at a time" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&animation=fadeIn&text=Simplifying%20homelabs%2C%20one%20step%20at%20a%20time&fontSize=30&fontColor=ffffff&fontAlignY=40&color=0:0969da,100:30a14e">
+</picture>
+
 <p align="center">
   <a href="https://www.simplehomelab.com">
     <img src="https://www.simplehomelab.com/images/2025/03/SimpleHomelab-Logo.png" alt="SimpleHomelab" width="300">
