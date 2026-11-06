@@ -1,9 +1,16 @@
 <!-- SimpleHomelab GitHub profile README -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0969da,100:30a14e&height=190&section=header&text=SimpleHomelab&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Simplifying%20homelabs%2C%20one%20step%20at%20a%20time&descSize=17&descAlignY=58&descColor=ffffffcc">
-  <img width="100%" alt="SimpleHomelab" src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:30a14e&height=190&section=header&text=SimpleHomelab&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Simplifying%20homelabs%2C%20one%20step%20at%20a%20time&descSize=17&descAlignY=58&descColor=ffffffcc">
-</picture>
+<p align="center">
+  <a href="https://www.simplehomelab.com">
+    <img src="https://www.simplehomelab.com/images/2025/03/SimpleHomelab-Logo.png" alt="SimpleHomelab" width="300">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.simplehomelab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Docker+%7C+Self-Hosting+%7C+Homelab+%7C+Open+Source" alt="Docker | Self-Hosting | Homelab | Open Source">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.simplehomelab.com"><img alt="Website" src="https://img.shields.io/badge/simplehomelab.com-0969da?style=flat-square&logo=wordpress&logoColor=white"></a>
