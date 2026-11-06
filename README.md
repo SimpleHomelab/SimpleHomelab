@@ -79,7 +79,10 @@ I run [SimpleHomelab.com](https://www.simplehomelab.com) (formerly SmartHomeBegi
 ## 🎬 Latest videos
 
 <!-- YOUTUBE:START -->
-- [Watch on YouTube](https://www.youtube.com/@Simple-Homelab)
+- [Deployrr 6: Self-Hosted AI, 160+ Docker Apps - Complete Rewrite](https://www.youtube.com/watch?v=Nuo83uzTWco)
+- [5 Reasons LXC Containers Crush Virtual Machines in Proxmox](https://www.youtube.com/watch?v=k10966gcusU)
+- [Docker on Proxmox LXC 🚀 The Better Way &lpar;2026 Updated Guide&rpar;](https://www.youtube.com/watch?v=5RZJrAba0-A)
+- [2025 Recap &amp; Big Announcements: Deployrr v6, LabMate AI &amp; More!](https://www.youtube.com/watch?v=hOAztEGo7Q8)
 <!-- YOUTUBE:END -->
 
 ## 🧰 Stack
