@@ -31,13 +31,16 @@ I run [SimpleHomelab.com](https://www.simplehomelab.com) (formerly SmartHomeBegi
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3><a href="https://github.com/SimpleHomelab/Deployrr">🏠 Deployrr</a></h3>
-      Automates Docker and Docker Compose homelab setup. 160+ ready-to-go apps, Traefik reverse proxy, CrowdSec, Authentik, Authelia, TinyAuth, Google OAuth, and backup and restore built in.
+      One tool to set up a full Docker homelab. Deployrr automates Docker and Docker Compose with 160+ ready-to-go apps, a Traefik reverse proxy with flexible exposure modes, CrowdSec, Authentik, Authelia, TinyAuth and Google OAuth, plus backup and restore. Runs on Ubuntu and Debian (Arch and RHEL-family as secondary) across bare metal, VMs, WSL and LXC.
       <br><br>
       <a href="https://github.com/SimpleHomelab/Deployrr/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/SimpleHomelab/Deployrr?style=flat-square&logo=github&color=f5c542"></a>
+      <a href="https://github.com/SimpleHomelab/Deployrr/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/SimpleHomelab/Deployrr?style=flat-square&color=30a14e&label=release"></a>
       <a href="https://docs.deployrr.app"><img alt="Docs" src="https://img.shields.io/badge/docs-deployrr.app-0969da?style=flat-square"></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SimpleHomelab/Docker-Traefik">🐳 Docker-Traefik</a></h3>
       Docker media and home server stack with Docker Compose, Traefik, CrowdSec, Google OAuth2 or Authelia, and Let's Encrypt. Companion repo for the <a href="https://www.simplehomelab.com/ultimate-docker-media-server-udms-01/">UDMS series</a>.
@@ -45,19 +48,11 @@ I run [SimpleHomelab.com](https://www.simplehomelab.com) (formerly SmartHomeBegi
       <a href="https://github.com/SimpleHomelab/Docker-Traefik/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/SimpleHomelab/Docker-Traefik?style=flat-square&logo=github&color=f5c542"></a>
       <a href="https://www.youtube.com/playlist?list=PL1Hno7tIbSWV-c1E87BqTzPMgfGxM08nf"><img alt="Playlist" src="https://img.shields.io/badge/video-playlist-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SimpleHomelab/Deployrr-Docs">📖 Deployrr Docs</a></h3>
       Documentation for Deployrr users, with walkthroughs and practical examples for every app and feature. Live at <a href="https://docs.deployrr.app">docs.deployrr.app</a>.
       <br><br>
       <a href="https://github.com/SimpleHomelab/Deployrr-Docs/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/SimpleHomelab/Deployrr-Docs?style=flat-square&logo=github&color=f5c542"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SimpleHomelab/Auto-Traefik">🔐 Auto-Traefik</a></h3>
-      Scripts that set up Socket Proxy, Traefik and Let's Encrypt certificates in a few minutes. A lightweight starting point if you want the reverse proxy without the full stack.
-      <br><br>
-      <a href="https://github.com/SimpleHomelab/Auto-Traefik/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/SimpleHomelab/Auto-Traefik?style=flat-square&logo=github&color=f5c542"></a>
     </td>
   </tr>
 </table>
