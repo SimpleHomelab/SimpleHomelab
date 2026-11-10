@@ -58,10 +58,11 @@ I run [SimpleHomelab.com](https://www.simplehomelab.com) (formerly SmartHomeBegi
       <a href="https://www.youtube.com/playlist?list=PL1Hno7tIbSWV-c1E87BqTzPMgfGxM08nf"><img alt="Playlist" src="https://img.shields.io/badge/video-playlist-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SimpleHomelab/Deployrr-Docs">📖 Deployrr Docs</a></h3>
-      Documentation for Deployrr users, with walkthroughs and practical examples for every app and feature. Live at <a href="https://docs.deployrr.app">docs.deployrr.app</a>.
+      <h3><a href="https://docs.deployrr.app">📖 Deployrr Docs</a></h3>
+      Documentation for Deployrr users, with walkthroughs and practical examples for every app and feature. Live at <a href="https://docs.deployrr.app">docs.deployrr.app</a>. The source now lives in the <a href="https://github.com/SimpleHomelab/Deployrr/tree/main/docs">Deployrr repo</a>.
       <br><br>
-      <a href="https://github.com/SimpleHomelab/Deployrr-Docs/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/SimpleHomelab/Deployrr-Docs?style=flat-square&logo=github&color=f5c542"></a>
+      <a href="https://docs.deployrr.app"><img alt="Docs" src="https://img.shields.io/badge/docs-deployrr.app-0969da?style=flat-square"></a>
+      <a href="https://github.com/SimpleHomelab/Deployrr/tree/main/docs"><img alt="Source" src="https://img.shields.io/badge/source-Deployrr%2Fdocs-24292f?style=flat-square&logo=github"></a>
     </td>
   </tr>
 </table>
