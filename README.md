@@ -70,11 +70,11 @@ I run [SimpleHomelab.com](https://www.simplehomelab.com) (formerly SmartHomeBegi
 ## 📝 Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OPNsense DNS Redirect Breaking Traefik SSL? The Easy Fix](https://www.simplehomelab.com/opnsense-dns-redirect-traefik/)
 - [UDMS Part 1: Ultimate Docker Media Server v3, Made Simple](https://www.simplehomelab.com/ultimate-docker-media-server/)
 - [State of the Site 2026: I’m Back &lpar;and What’s Next&rpar;](https://www.simplehomelab.com/state-of-the-site-2026/)
 - [Ultimate Docker Guides: Homepage Docker Compose [2026]](https://www.simplehomelab.com/homepage-docker-compose-guide-2026/)
 - [UDMS Part 26: Running Multiple Domains with One Traefik Instance](https://www.simplehomelab.com/udms-26-multiple-domains-on-traefik/)
-- [UDMS Part 27: Running Multiple Traefik Instances with Domain Passthrough](https://www.simplehomelab.com/udms-27-traefik-domain-passthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎬 Latest videos
