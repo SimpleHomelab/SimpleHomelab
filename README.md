@@ -80,10 +80,10 @@ I run [SimpleHomelab.com](https://www.simplehomelab.com) (formerly SmartHomeBegi
 ## 🎬 Latest videos
 
 <!-- YOUTUBE:START -->
+- [Test Your OPNsense DNS Redirect With One dig Command #homelab](https://www.youtube.com/shorts/9h9WrRn-lts)
 - [Old Celeron homelab? Check for AVX2 before you update](https://www.youtube.com/shorts/ypdS-C0VeOI)
 - [Deployrr 6: Self-Hosted AI, 160+ Docker Apps - Complete Rewrite](https://www.youtube.com/watch?v=Nuo83uzTWco)
 - [5 Reasons LXC Containers Crush Virtual Machines in Proxmox](https://www.youtube.com/watch?v=k10966gcusU)
-- [Docker on Proxmox LXC 🚀 The Better Way &lpar;2026 Updated Guide&rpar;](https://www.youtube.com/watch?v=5RZJrAba0-A)
 <!-- YOUTUBE:END -->
 
 ## 🧰 Stack
